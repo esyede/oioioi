@@ -16,6 +16,10 @@ and drop to your webserver.
   - Edit the `config.php` file if needed. That's it!
 
 
+## Demo
+
+Demo available here: [https://blog.esyede.my.id/](https://blog.esyede.my.id/)
+
 
 ## Adding Posts
 
