@@ -12,6 +12,7 @@ It's super simple, so don't epect much :)
   - Download the file from
 [release page](https://github.com/esyede/oioioi/releases)
 and drop to your webserver.
+  - Copy `sample.htaccess` file to `.htaccess`
   - Edit the `config.php` file if needed. That's it!
 
 
