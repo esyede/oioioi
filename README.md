@@ -5,7 +5,7 @@ It's super simple, so don't epect much :)
 
 ## Screenshots
 
-![listing](/screenshots/listing)
+![listing](/screenshots/listing.png)
 ![article](/screenshots/article.png)
 
 
