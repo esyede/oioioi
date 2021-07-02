@@ -3,6 +3,15 @@ Super simple markdown blog that powers my website.
 It's super simple, so don't epect much :)
 
 
+## Screenshots
+
+![listing](/screenshots/listing)
+![article](/screenshots/article.png)
+
+
+Live demo also available here: [https://blog.esyede.my.id/](https://blog.esyede.my.id/)
+
+
 ## Requirements
 *  PHP 5.4 or newer
 
@@ -14,11 +23,6 @@ It's super simple, so don't epect much :)
 and drop to your webserver.
   - Copy `sample.htaccess` file to `.htaccess`
   - Edit the `config.php` file if needed. That's it!
-
-
-## Demo
-
-Demo available here: [https://blog.esyede.my.id/](https://blog.esyede.my.id/)
 
 
 ## Adding Posts
